@@ -16679,8 +16679,8 @@ Source: AVX .. aphvc.pdf</description>
 <sheets>
 <sheet>
 <plain>
-<text x="166.505" y="9.795" size="3.81" layer="94">Afficheur 
-Rapport v1.0-dev</text>
+<text x="166.505" y="9.795" size="3.81" layer="94">Afficheur Rapport 
+v1.2-dev</text>
 <text x="216.44" y="20.32" size="2.54" layer="94">EPSA Saison 2018/2019</text>
 <wire x1="76.66" y1="91.965" x2="76.66" y2="69.105" width="0.1524" layer="97"/>
 <wire x1="110.95" y1="69.105" x2="110.95" y2="91.965" width="0.1524" layer="97"/>

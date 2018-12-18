@@ -16740,8 +16740,8 @@ Source: www.farnell.com/datasheets/247.pdf</description>
 <sheets>
 <sheet>
 <plain>
-<text x="167.14" y="9.16" size="5.08" layer="94">Afficheur 
-Temp v1.4</text>
+<text x="169.68" y="9.16" size="3.81" layer="94">Afficheur Temp 
+v1.2-dev</text>
 <text x="216.44" y="20.32" size="2.54" layer="94">EPSA Saison 2018/2019</text>
 <wire x1="89.36" y1="140.86" x2="89.36" y2="110.38" width="0.1524" layer="97"/>
 <wire x1="124.92" y1="110.38" x2="124.92" y2="140.86" width="0.1524" layer="97"/>
