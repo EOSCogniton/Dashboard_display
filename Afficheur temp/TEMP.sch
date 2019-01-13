@@ -16742,7 +16742,7 @@ Source: www.farnell.com/datasheets/247.pdf</description>
 <plain>
 <text x="169.68" y="9.16" size="3.81" layer="94">Afficheur Temp 
 v1.0</text>
-<text x="216.44" y="20.32" size="2.54" layer="94">EPSA Saison 2018/2019</text>
+<text x="216.44" y="20.32" size="2.54" layer="94">EPSA Saison 2019</text>
 <wire x1="89.36" y1="140.86" x2="89.36" y2="110.38" width="0.1524" layer="97"/>
 <wire x1="124.92" y1="110.38" x2="124.92" y2="140.86" width="0.1524" layer="97"/>
 <wire x1="124.92" y1="140.86" x2="89.36" y2="140.86" width="0.1524" layer="97"/>
@@ -16763,7 +16763,7 @@ v1.0</text>
 <wire x1="18.32" y1="82.19" x2="146.78" y2="82.19" width="0.1524" layer="97"/>
 <wire x1="146.78" y1="82.19" x2="146.78" y2="14.21" width="0.1524" layer="97"/>
 <text x="25.9" y="78.69" size="2.54" layer="97">Affichage</text>
-<text x="216.44" y="15.32" size="2.54" layer="94">Véhicule Optimus</text>
+<text x="216.44" y="15.32" size="2.54" layer="94">OPTIMUS v1.0</text>
 <text x="216.44" y="10.32" size="2.54" layer="94">Bob Aubouin (BAT)</text>
 </plain>
 <instances>
